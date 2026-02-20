@@ -9,6 +9,36 @@ body {
     margin-bottom: 10px;
 }
 
+.left {
+    float: left;
+    width: 30%;
+
+}
+
+.middle {
+    float: left;
+    width: 30%;
+    margin: 20px 20px 20px 20px;
+}
+.right {
+    float: right;
+    width: 30%;
+}
+
+#navbar ul {
+    list-style-type: none;
+    padding: 0;
+
+}
+#navbar li {
+    display: inline;
+    margin-right: 100px;
+}
+#navbar a {
+    margin-left: 50px;
+
+
+}
 h1 {
     color: DarkBlue;
     font-family: Oswald, sans-serif;
