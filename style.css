@@ -1,9 +1,9 @@
 
 body {
     background-color: ivory;
-    font-family: Oswald, Open-Sans;
-    margin-left: 50px;
+    font-family: Open Sans, sans-serif;
     color: DarkBlue;
+    margin-left: 50px;
     margin-right: 50px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -11,20 +11,22 @@ body {
 
 h1 {
     color: DarkBlue;
+    font-family: Oswald, sans-serif;
 }
 
 h2 {
     color: DarkBlue;
+    font-family: Oswald, sans-serif;
 }
 
 p {
     line-height: 1.6;
     color: DarkBlue;
+    font-family: Oswald, sans-serif;
 }
 
 img {
     width: 100px;
-    margin-bottom: 20px;
     margin-right: 20px;
-    vertical-align: left;
+    float: left;
 }
